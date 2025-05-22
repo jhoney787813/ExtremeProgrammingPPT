@@ -34,7 +34,7 @@
 > "Implementación de seguridad en el modelo de desarrollo ágil XP"
 
 **Texto complementario:**
-"Muy buenos días. Soy Jhon Edison Hincapié y en nombre de mi equipo les damos la bienvenida a esta charla donde abordaremos cómo la seguridad puede integrarse en los procesos ágiles, específicamente en Extreme Programming, también conocido como XP."
+"Hola a todos. Soy Jhon Edison Hincapié y en nombre de mi equipo les damos la bienvenida a esta charla donde abordaremos cómo la seguridad puede integrarse en los procesos ágiles, específicamente en Extreme Programming, también conocido como XP."
 
 ---
 

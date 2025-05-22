@@ -18,96 +18,159 @@
 | Jeison Alexander Giraldo Orjuela | 100232309 |
 | Jorge Andrés Holguín Medina      | 100072816 |
 
----
+
+
+# Guiones para exposición: Implementación de seguridad en el modelo de desarrollo ágil XP
 
 ## 👩‍📋 Jhon Edison Hincapié García
+## Participante 1: Jhon Edison Hincapié García – Código: 100097437
 
-### 🌟 Introducción y Objetivo
-
-> Hola, muy buenas. Mi nombre es **Jhon Edison Hincapié García**. Les damos la bienvenida a nuestra charla:
-> **"Implementación de seguridad en el modelo de desarrollo ágil XP"**.
-
-* ✨ **Objetivo:** Mostrar cómo integrar la seguridad en entornos ágiles, con enfoque en XP.
-
-### 📊 ¿Qué es XP?
-
-* Metodología ágil enfocada en calidad y velocidad.
-* Características:
-
-  * Iteraciones cortas y frecuentes.
-  * Retroalimentación constante.
-  * Programación en pareja.
-  * Pruebas continuas.
-  * Diseño simple.
-
-### ⚖️ Principios de XP aplicables a la seguridad
-
-* ✅ Programación en pareja
-* ✅ Feedback constante
-* ✅ Simplicidad
-* ✅ Pruebas automatizadas
+### Tema: Introducción, objetivo, qué es XP y principios aplicables a la seguridad
 
 ---
 
+**Diapositiva 1: Título y Presentación del Tema**
+
+> "Implementación de seguridad en el modelo de desarrollo ágil XP"
+
+**Texto complementario:**
+"Muy buenos días. Soy Jhon Edison Hincapié y en nombre de mi equipo les damos la bienvenida a esta charla donde abordaremos cómo la seguridad puede integrarse en los procesos ágiles, específicamente en Extreme Programming, también conocido como XP."
+
+---
+
+**Diapositiva 2: Objetivo de la charla**
+
+> "Presentar cómo se integra la seguridad en XP mediante buenas prácticas y controles técnicos"
+
+**Texto complementario:**
+"Queremos que esta charla les deje herramientas prácticas para aplicar seguridad desde el inicio de un proyecto XP, sin frenar el ritmo de entrega ni la colaboración del equipo."
+
+---
+
+**Diapositiva 3: ¿Qué es XP?**
+
+> * Desarrollo ágil
+> * Iteraciones cortas
+> * Retroalimentación constante
+> * Diseño simple
+
+**Texto complementario:**
+"XP nació como una metodología para entregar software de alta calidad en tiempos ajustados. Lo interesante es que aunque no habla de seguridad explícitamente, varios de sus principios se prestan muy bien para implementar controles sin burocracia."
+
+---
+
+**Diapositiva 4: Principios de XP aplicables a seguridad**
+
+> * Programación en pareja
+> * Retroalimentación rápida
+> * Pruebas constantes
+> * Diseño simple
+
+**Texto complementario:**
+"Estos principios pueden actuar como una primera capa de seguridad. Por ejemplo, la programación en pareja es una revisión constante de código que detecta fallas a tiempo."
+
+---
 ## 👩‍📋 Jhon Heider Ávila Varón
+## Participante 2: Jhon Heider Ávila Varón – Código: 100400198
 
-### 🛡️ Conceptos básicos de seguridad
-
-* **Confidencialidad:** Acceso solo autorizado.
-* **Integridad:** Datos sin alteración.
-* **Disponibilidad:** Sistema operativo cuando se requiere.
-
-Otros aspectos:
-
-* Autenticación y autorización
-* Validación de entradas
-* Control de sesiones
-* Criptografía
-
-### ⚡️ Fallas comunes en proyectos XP
-
-* Historias sin requisitos de seguridad.
-* Pruebas de seguridad inexistentes.
-* Secretos expuestos en repositorios.
-* Validación pobre de datos.
+### Tema: Conceptos básicos de seguridad y fallas comunes en XP
 
 ---
 
+**Diapositiva 5: Conceptos básicos de seguridad**
+
+> * Confidencialidad
+> * Integridad
+> * Disponibilidad (CID)
+> * Validación, autenticación, autorización
+
+**Texto complementario:**
+"Seguridad no solo es evitar ataques, también es garantizar que el sistema funcione correctamente para las personas correctas en el momento correcto."
+
+---
+
+**Diapositiva 6: Fallas comunes de seguridad en XP**
+
+> * Historias sin requisitos de seguridad
+> * Falta de pruebas automatizadas
+> * Exposición de credenciales
+> * Poca validación de entradas
+
+**Texto complementario:**
+"Cuando el equipo se enfoca solo en funcionalidad, suelen pasarse por alto detalles como la protección de datos o la revisión de configuraciones inseguras. Esto deja puertas abiertas que podrían haberse cerrado desde el inicio."
+
+---
 ## 👨‍📋 Jeison Alexander Giraldo Orjuela
+## Participante 3: Jeison Alexander Giraldo Orjuela – Código: 100232309
 
-### ⚡️ Implementación de controles - Parte 1
+### Tema: Implementación de seguridad en XP – Controles 1 y 2
 
-#### ✅ Control 1: Historias de usuario con seguridad
+---
 
-* Ejemplo:
+**Diapositiva 7: Control 1 - Historias de usuario seguras**
 
-  > "Como admin, quiero cerrar sesión tras 10 minutos de inactividad."
-* Uso de STRIDE o ASVS.
+> * Historias con requisitos de seguridad
+> * Uso de plantillas como STRIDE o ASVS
 
-#### ✅ Control 2: Pruebas de seguridad automatizadas
+**Texto complementario:**
+"Desde el backlog, podemos incluir criterios de aceptación que verifiquen aspectos de seguridad. Esto ayuda a que el equipo piense en amenazas desde la fase de análisis."
 
-* CI/CD puede incluir:
+---
 
-  * Escaneo de vulnerabilidades (Snyk, ZAP).
-  * Linting de seguridad.
-  * Bloqueo de despliegues inseguros.
+**Diapositiva 8: Control 2 - Pruebas de seguridad automatizadas**
+
+> * Escaneo de vulnerabilidades en pipelines
+> * Herramientas: Snyk, ZAP, GitHub Advanced Security
+
+**Texto complementario:**
+"La automatización nos permite incluir seguridad sin frenar el flujo de integración continua. Estas pruebas deben ser parte del ciclo diario, como cualquier test funcional."
 
 ---
 
 ## 👨‍📋 Jorge Andrés Holguín Medina
 
-### ⚡️ Implementación de controles - Parte 2
+## Participante 4: Jorge Andrés Holguín Medina – Código: 100072816
 
-#### ✅ Control 3: Programación en pareja / Revisión de código
+### Tema: Controles 3 y 4 + conclusiones y recomendaciones
 
-* Mejora calidad y permite detección de vulnerabilidades.
-* Promueve cultura de seguridad.
+---
 
-#### ✅ Control 4: Validación y sanitización de entradas
+**Diapositiva 9: Control 3 - Programación en pareja**
 
-* Nunca confiar en input del usuario.
-* Validar del lado cliente y servidor.
-* Uso de queries parametrizadas, escapes, etc.
+> * Revisión constante
+> * Prevención de errores y malas prácticas
+
+**Texto complementario:**
+"Esta técnica no solo mejora la calidad del código, también sirve como mentoría continua en buenas prácticas, incluyendo la seguridad."
+
+---
+
+**Diapositiva 10: Control 4 - Validación de entradas**
+
+> * Validar en cliente y servidor
+> * Evitar inyecciones y XSS
+
+**Texto complementario:**
+"Muchos ataques vienen por no validar correctamente lo que el usuario envía. Esto se puede prevenir fácilmente con frameworks modernos y reglas claras."
+
+---
+
+**Diapositiva 11: Conclusiones y recomendaciones**
+
+> * Seguridad como parte del ciclo
+> * Automatización + cultura
+> * Definir seguridad en la historia de usuario
+
+**Texto complementario:**
+"XP no es enemigo de la seguridad. Al contrario, su estructura ágil permite integrar controles si el equipo tiene la cultura adecuada y las herramientas correctas."
+
+---
+
+**Tiempo total estimado por participante:** 4-5 minutos
+**Duración total aproximada de la charla:** 18-20 minutos
+
+
+
 
 ### 🤔 Conclusiones
 

@@ -1,0 +1,67 @@
+🎤 Guion teleprónter para presentación oral
+🎬 Diapositiva 1 – Portada
+👤 Jhon Heider Ávila Varón:
+
+Buenos días, profesor y compañeros.
+Somos Jhon Heider Ávila y Jhon Edison Hincapié, y hoy les presentamos el trabajo final del módulo Aseguramiento de Aplicaciones y Bases de Datos.
+Este proyecto está basado en la empresa HostDime Colombia y la aplicación Paxton Net2, y tiene como eje principal la construcción de un manual de aseguramiento adaptado a sus necesidades reales.
+
+🎯 Diapositiva 2 – Objetivos del Proyecto
+👤 Jhon Edison Hincapié García:
+
+Nuestro objetivo general fue diseñar un conjunto de políticas y controles que aseguren la continuidad, integridad y confidencialidad de la aplicación Paxton Net2.
+Para lograrlo, analizamos la infraestructura, definimos políticas clave, y diseñamos un plan de respaldo y respuesta ante incidentes, siguiendo normas como ISO 27001 y buenas prácticas OWASP.
+
+🏢 Diapositiva 3 – Contexto de la Organización
+👤 Jhon Heider Ávila Varón:
+
+HostDime es una empresa global con presencia en Colombia, enfocada en servicios de hosting, centros de datos y seguridad.
+La aplicación evaluada, Paxton Net2, gestiona el control de accesos físicos y lógicos en la organización.
+Está alojada en una infraestructura virtualizada con alta disponibilidad, redundancia de red, backups y controles perimetrales.
+
+🔐 Diapositiva 4 – Características de Paxton Net2
+👤 Jhon Edison Hincapié García:
+
+Paxton Net2 es una solución integral para gestionar accesos en edificios y oficinas.
+Permite monitoreo en tiempo real, control remoto, gestión de tarjetas, reportes personalizados y escalabilidad para múltiples sedes.
+Es compatible con lectores biométricos, tarjetas RFID y códigos PIN.
+
+📜 Diapositiva 5 – Políticas de Seguridad
+👤 Jhon Heider Ávila Varón:
+
+Definimos siete políticas clave: control de acceso con MFA, seguridad de la información basada en la triada CIA, gestión de incidentes, auditoría de registros, respaldo automatizado, parches periódicos y programas de formación continua.
+Todo esto está documentado y alineado con estándares internacionales.
+
+📊 Diapositiva 6 – Matriz DOFA
+👤 Jhon Edison Hincapié García:
+
+Realizamos un análisis de riesgos con enfoque DOFA.
+Destacamos fortalezas como la redundancia y cumplimiento normativo, pero también debilidades como la dependencia de configuraciones iniciales y amenazas como ataques ransomware.
+Esto nos permitió priorizar las acciones del manual.
+
+🧩 Diapositiva 7 – Manual de Aseguramiento
+👤 Jhon Heider Ávila Varón:
+
+El manual está compuesto por seis secciones: alcance, políticas, roles, herramientas, indicadores y medidas de seguimiento.
+Cada política se documentó con diagramas y flujos BPMN para facilitar su comprensión.
+El enfoque es modular, lo que permite adaptarlo fácilmente a otras sedes de la empresa.
+
+✅ Diapositiva 8 – Conclusiones
+👤 Jhon Edison Hincapié García:
+
+Como principales resultados, logramos consolidar un entorno seguro y alineado con estándares ISO y NIST.
+Automatizamos procesos críticos como reportes cifrados y backups, y fomentamos una cultura de seguridad a través de la capacitación.
+Esto ha permitido reducir incidentes críticos en un 80%.
+
+
+📈 Diapositiva 9 – Recomendaciones Finales
+👤 Jhon Edison Hincapié García:
+
+Para finalizar, recomendamos integrar IA en el SIEM para anticipar amenazas, automatizar auditorías con herramientas como Qualys y reforzar la formación continua del personal.
+Este enfoque no solo mejora la seguridad, sino que fortalece la confianza de los clientes y la preparación de la organización.
+
+🎤 Cierre
+👤 Ambos:
+
+Muchas gracias por su atención. Quedamos atentos a sus preguntas o sugerencias.
+

@@ -58,7 +58,7 @@ El total estimado del proyecto es de 58.800 dólares estadounidenses. Este valor
 
 Es importante resaltar que no se trata de un gasto, sino de una inversión estratégica en seguridad, rendimiento y continuidad operativa.
 
-🎤  Jhon Heider Ávila Varón
+# 🎤  Jhon Heider Ávila Varón
 # Slide 11: Beneficios de la implementación del diseño propuesto
 
 Esta implementación no solo resuelve las falencias identificadas, sino que transforma la red en un activo estratégico.

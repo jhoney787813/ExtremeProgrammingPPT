@@ -8,7 +8,7 @@ Slides 1 ,2,3 : Introducción + Planteamiento del Problema
 Hola a todos, Vamos a presentar un diagnóstico completo de una red empresarial con cerca de 150 usuarios, identificando sus vulnerabilidades y proponiendo una arquitectura segura y escalable.
 En la primera parte, contextualizamos la importancia de una red sólida. En este caso, encontramos una red crítica con fallas estructurales, desorganización lógica, y sin políticas de seguridad definidas. Todo esto expone a la organización a pérdidas operativas y de reputación.
 
-## 🎤 2. Jhon Heider Ávila Varón
+#  🎤 2. Jhon Heider Ávila Varón
 Slides 4,5,6: Objetivos + Análisis de la Red Actual
 
 El objetivo general fue analizar a fondo la infraestructura actual y proponer mejoras según buenas prácticas.

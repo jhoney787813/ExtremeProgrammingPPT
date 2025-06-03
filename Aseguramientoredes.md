@@ -37,7 +37,7 @@ La implementación se plantea en 5 fases, con un presupuesto estimado de 58.000 
 Finalmente, esta propuesta mejora la postura de seguridad, asegura continuidad operativa y facilita la escalabilidad tecnológica futura de la organización.
 
 
-# 🎤  Jhon Heider Ávila Varón
+# 🎤  Jorge Andrés Holguín Medina
 # GUIÓN SLIDE 10 – PRESUPUESTO
 Presentador: Jorge Andrés Holguín Medina
 Slide 10: Resumen del presupuesto de implementación
@@ -58,7 +58,7 @@ El total estimado del proyecto es de 58.800 dólares estadounidenses. Este valor
 
 Es importante resaltar que no se trata de un gasto, sino de una inversión estratégica en seguridad, rendimiento y continuidad operativa.
 
-
+🎤  Jhon Heider Ávila Varón
 # Slide 11: Beneficios de la implementación del diseño propuesto
 
 Esta implementación no solo resuelve las falencias identificadas, sino que transforma la red en un activo estratégico.

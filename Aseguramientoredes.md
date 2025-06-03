@@ -36,6 +36,8 @@ Aplicamos controles ISO/IEC 27001:2022 como segmentación, control de accesos, s
 La implementación se plantea en 5 fases, con un presupuesto estimado de 58.000 USD, distribuidos en diseño, infraestructura, seguridad, monitoreo y servicios profesionales.
 Finalmente, esta propuesta mejora la postura de seguridad, asegura continuidad operativa y facilita la escalabilidad tecnológica futura de la organización.
 
+
+# 🎤  Jhon Heider Ávila Varón
 # GUIÓN SLIDE 10 – PRESUPUESTO
 Presentador: Jorge Andrés Holguín Medina
 Slide 10: Resumen del presupuesto de implementación
